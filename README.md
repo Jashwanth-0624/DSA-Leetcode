@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
