@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
