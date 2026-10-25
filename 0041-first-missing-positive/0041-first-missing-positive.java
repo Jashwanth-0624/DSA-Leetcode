@@ -3,9 +3,7 @@ class Solution {
         int n = nums.length; 
 
         for(int i = 0; i < n; i++){
-            while(nums[i] > 0 &&
-                 nums[i] <= n &&
-                 nums[nums[i] - 1]!= nums[i]){
+            while(nums[i] > 0 && nums[i] <= n && nums[nums[i] - 1]!= nums[i]){
 
                     int correctIndex = nums[i] - 1;
 
@@ -23,4 +21,6 @@ class Solution {
 
     }
 }
+// [1, 2, 3, 4, 5]
+// return n + 1; 
 
