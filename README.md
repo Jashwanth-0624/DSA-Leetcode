@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/2235-add-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
