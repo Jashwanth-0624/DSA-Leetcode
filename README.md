@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1929-concatenation-of-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
