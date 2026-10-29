@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
