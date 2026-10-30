@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Union-Find
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -56,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
