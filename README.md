@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -72,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -107,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -124,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
