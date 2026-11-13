@@ -19,7 +19,13 @@ class Solution {
     }
 }
 
-//Boyer-Moore Voting Algorithm
-// [3, 2, 3]
-// 3, count = 1
-// 2, count = 0, 
+// //Boyer-Moore Voting Algorithm
+// // [3, 2, 3]
+// // 3, count = 1
+// // 2, count = 0, 
+// // Time : O(n)
+// // Auxliary Space : O(1)
+// // Total space : O(n)
+
+// Dry run: 
+//  i = 0
