@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Jashwanth-0624/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
