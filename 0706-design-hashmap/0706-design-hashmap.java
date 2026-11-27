@@ -1,21 +1,22 @@
 class MyHashMap {
-
     int[] map;
-
     public MyHashMap() {
         map = new int[1000001];
         Arrays.fill(map, -1);
     }
-
+    
     public void put(int key, int value) {
+        // map.put
         map[key] = value;
     }
-
+    
     public int get(int key) {
+        // map.get
         return map[key];
     }
-
+    
     public void remove(int key) {
+        // map.remove
         map[key] = -1;
     }
 }
@@ -27,3 +28,8 @@ class MyHashMap {
  * int param_2 = obj.get(key);
  * obj.remove(key);
  */
+//  [-1, -1, -1, -1, ............... -1]
+//  [-1, ]
+//  map[2] = 50
+
+//  [-1, -1, 50, -1, -1 -1 ......]
