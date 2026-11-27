@@ -1,19 +1,17 @@
 class MyHashSet {
-
-    boolean[] set;
-
+    boolean set[];
     public MyHashSet() {
         set = new boolean[1000001];
     }
-
+    
     public void add(int key) {
         set[key] = true;
     }
-
+    
     public void remove(int key) {
         set[key] = false;
     }
-
+    
     public boolean contains(int key) {
         return set[key];
     }
@@ -26,3 +24,6 @@ class MyHashSet {
  * obj.remove(key);
  * boolean param_3 = obj.contains(key);
  */
+
+ 
+
